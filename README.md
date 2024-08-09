@@ -1,4 +1,4 @@
-## Hi there My Name is Michel Cuero CEO👋
+## Hi there My Name is Michel Cuero CEO of BRB-BeautyRightBack Inc👋
 
 <!--
 **MichelCuero/MichelCuero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
