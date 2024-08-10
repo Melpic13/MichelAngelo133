@@ -1,10 +1,5 @@
 ## Hi My Name is Michel Cuero CEO of BRB-BeautyRightBack Inc👋
 
-<!--
-**MichelCuero/MichelCuero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I'm currently focused on building a billion-dollar company dedicated to revolutionizing the beauty industry. We're developing an AI-powered subscription marketplace that's transforming beauty services and advertising.
 - 🌱 I’m currently completing my studies as a full stack developer at Robertson College.
 
@@ -15,4 +10,27 @@ Beyond the technical aspects, I also focus on creating sophisticated business mo
 In addition to these responsibilities, I collaborate closely with other departments to integrate technology seamlessly into our overall business strategy, ensuring that our innovations not only meet technical standards but also drive our market success 🤝🏆. My passion for technology and my commitment to excellence fuel my drive to build a company that not only excels in the beauty industry but also sets new standards in how technology can revolutionize traditional business models 💪💼.
 
 I'm a strong believer in God, and my favorite Bible verse is Joshua 1:9: "Have I not commanded you? Be strong and courageous. Do not be afraid; do not be discouraged, for the Lord your God will be with you wherever you go."
--->
+
+.
+
+
+
+## Authors
+
+- [@Michelcuero](https://github.com/MichelCuero)
+
+## Color Reference
+
+| Color             | Hex                                                                |
+| ----------------- | ------------------------------------------------------------------ |
+| Example Color | ![#0a192f](https://via.placeholder.com/10/0a192f?text=+) #0a192f |
+| Example Color | ![#f8f8f8](https://via.placeholder.com/10/f8f8f8?text=+) #f8f8f8 |
+| Example Color | ![#00b48a](https://via.placeholder.com/10/00b48a?text=+) #00b48a |
+| Example Color | ![#00d1a0](https://via.placeholder.com/10/00b48a?text=+) #00d1a0 |
+
+
+## Tech Stack
+
+**Client:** React, Redux, TailwindCSS
+
+**Server:** Node, Express
