@@ -11,17 +11,3 @@ In addition to these responsibilities, I collaborate closely with other departme
 
 I'm a strong believer in God, and my favorite Bible verse is Joshua 1:9: "Have I not commanded you? Be strong and courageous. Do not be afraid; do not be discouraged, for the Lord your God will be with you wherever you go."
 
-.
-
-
-
-## Authors
-
-- [@Michelcuero](https://github.com/MichelCuero)
-
-
-## Tech Stack
-
-**Client:** React, Redux, TailwindCSS
-
-**Server:** Node, Express
