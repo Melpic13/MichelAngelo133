@@ -1,4 +1,4 @@
-## Hi My Name is Michel  CEO of BRB-BeautyRightBack👋
+## Hi My Name is Michel  CEO of GETGLAM INC👋
 
 - 🔭 I'm currently focused on building a billion-dollar company dedicated to revolutionizing the beauty industry. We're developing an AI-powered subscription marketplace that's transforming beauty services and advertising.
 - 🌱 I’m currently completing my studies as a full stack developer at Robertson College.
